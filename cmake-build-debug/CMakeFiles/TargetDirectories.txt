@@ -1,0 +1,3 @@
+D:/Scoala/Operatin Systems I/Raul_Filea_OS_Part1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Scoala/Operatin Systems I/Raul_Filea_OS_Part1/cmake-build-debug/CMakeFiles/Raul_Filea_OS_Part1.dir
+D:/Scoala/Operatin Systems I/Raul_Filea_OS_Part1/cmake-build-debug/CMakeFiles/edit_cache.dir
